@@ -1,0 +1,791 @@
+﻿Log file open, 10/10/18 15:50:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/DashPunchPrototype.uproject
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.140874
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.273s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU           E5645  @ 2.40GHz, GPU: NVIDIA GeForce GTX 750 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.10-22.50.05:082][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-22.50.05:082][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.10-22.50.05:119][  0]LogHAL: Display: Platform has ~ 12 GB [12875771904 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.10-22.50.05:119][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.10-22.50.05:119][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.10-22.50.05:126][  0]LogInit: Computer: DESKTOP-42U0TAF
+[2018.10.10-22.50.05:126][  0]LogInit: User: theco
+[2018.10.10-22.50.05:126][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.10.10-22.50.05:126][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.10.10-22.50.05:127][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2018.10.10-22.50.05:127][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.10-22.50.05:127][  0]LogMemory: Process Physical Memory: 103.85 MB used, 103.85 MB peak
+[2018.10.10-22.50.05:127][  0]LogMemory: Process Virtual Memory: 89.09 MB used, 89.09 MB peak
+[2018.10.10-22.50.05:127][  0]LogMemory: Physical Memory: 6428.32 MB used,  5850.98 MB free, 12279.29 MB total
+[2018.10.10-22.50.05:127][  0]LogMemory: Virtual Memory: 4669.53 MB used,  5850.98 MB free, 134217728.00 MB total
+[2018.10.10-22.50.05:481][  0]LogInit: Using OS detected language (en-US).
+[2018.10.10-22.50.05:481][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.10-22.50.05:486][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.10-22.50.06:206][  0]LogStreaming: Display: Took  0.725s to InitEngineTextLocalization.
+[2018.10.10-22.50.06:206][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.10-22.50.06:362][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.10-22.50.06:362][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.10-22.50.10:149][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.10.10-22.50.10:149][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.10-22.50.10:369][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.10.10-22.50.10:369][  0]LogD3D11RHI:       2007/0/6139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.10-22.50.10:373][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.10-22.50.10:374][  0]LogD3D11RHI:       0/0/6139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.10-22.50.10:374][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.10-22.50.10:388][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.10-22.50.10:388][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.10-22.50.10:388][  0]LogWindows: EnumDisplayDevices:
+[2018.10.10-22.50.10:388][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2018.10.10-22.50.10:389][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.10.10-22.50.10:390][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.10.10-22.50.10:390][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.10.10-22.50.10:390][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.10-22.50.10:390][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.10.10-22.50.10:390][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2018.10.10-22.50.10:391][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2018.10.10-22.50.10:391][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.10.10-22.50.10:493][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.10-22.50.10:521][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.10-22.50.10:624][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Intermediate/Shaders/WorkingDirectory/532/).
+[2018.10.10-22.50.10:625][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/theco/AppData/Local/Temp/UnrealShaderWorkingDir/9D9317394F0EE519CA08499F8EC39752/'.
+[2018.10.10-22.50.11:585][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.10-22.50.11:626][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.10-22.50.11:666][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.10-22.50.11:707][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.10-22.50.11:764][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.10-22.50.11:808][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.10-22.50.11:852][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.10-22.50.11:894][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.10-22.50.11:925][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-22.50.12:132][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.10-22.50.12:297][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-22.50.12:297][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-22.50.12:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-22.50.12:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-22.50.12:406][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.10-22.50.12:450][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.10-22.50.12:491][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.10-22.50.12:548][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.10-22.50.12:592][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.10-22.50.12:592][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.10-22.50.13:117][  0]LogXGEController: Cleaning working directory: C:/Users/theco/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.10-22.50.13:117][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.10-22.50.13:117][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.10-22.50.13:117][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.10-22.50.16:293][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.10-22.50.16:923][  0]LogDerivedDataCache: Loaded boot cache 0.63s 72MB C:/Users/theco/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-22.50.16:923][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/theco/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.10-22.50.16:923][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.10-22.50.16:923][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.10-22.50.16:923][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.10-22.50.16:923][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.10-22.50.16:961][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.10-22.50.16:993][  0]LogDerivedDataCache: Using Local data cache path C:/Users/theco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.10-22.50.16:993][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.10-22.50.16:993][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.10-22.50.17:027][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.10-22.50.17:029][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.10-22.50.17:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.10-22.50.17:491][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2018.10.10-22.50.18:187][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-22.50.18:774][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.10-22.50.18:846][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.10-22.50.18:846][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.10-22.50.18:847][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.10-22.50.18:847][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.10-22.50.18:926][  0]LogNetVersion: DashPunchPrototype 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2960470594)
+[2018.10.10-22.50.20:706][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.219935 seconds
+[2018.10.10-22.50.20:718][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.10-22.50.20:718][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.10-22.50.20:718][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.10-22.50.25:406][  0]LogWmfMedia: Failed to load mf.dll
+[2018.10.10-22.50.25:406][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2018.10.10-22.50.25:426][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2018.10.10-22.50.25:427][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2018.10.10-22.50.25:427][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2018.10.10-22.50.26:307][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.10-22.50.26:345][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.10-22.50.27:048][  0]SourceControl: Source control is disabled
+[2018.10.10-22.50.27:049][  0]SourceControl: Source control is disabled
+[2018.10.10-22.50.27:082][  0]SourceControl: Source control is disabled
+[2018.10.10-22.50.27:105][  0]SourceControl: Source control is disabled
+[2018.10.10-22.50.28:123][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.10-22.50.28:448][  0]LogOcInput: OculusInput pre-init called
+[2018.10.10-22.50.28:666][  0]LogEngine: Initializing Engine...
+[2018.10.10-22.50.28:708][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.10.10-22.50.28:711][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-22.50.28:711][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-22.50.28:711][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-22.50.28:711][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-22.50.29:178][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.10-22.50.29:229][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.10-22.50.29:303][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.10-22.50.29:344][  0]LogInit: FAudioDevice initialized.
+[2018.10.10-22.50.29:344][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.10-22.50.29:486][  0]LogDerivedDataCache: Saved boot cache 0.14s 72MB C:/Users/theco/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-22.50.29:496][  0]LogInit: Texture streaming: Enabled
+[2018.10.10-22.50.29:605][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.10-22.50.29:660][  0]LogInit: Transaction tracking system initialized
+[2018.10.10-22.50.29:801][  0]BlueprintLog: New page: Editor Load
+[2018.10.10-22.50.30:419][  0]LocalizationService: Localization service is disabled
+[2018.10.10-22.50.31:581][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.10-22.50.31:581][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.10-22.50.31:581][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.10-22.50.31:581][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-22.50.31:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-22.50.31:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-22.50.31:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-22.50.32:432][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/' took 0.03s
+[2018.10.10-22.50.32:478][  0]SourceControl: Source control is disabled
+[2018.10.10-22.50.32:479][  0]Cmd: MAP LOAD FILE="../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.10-22.50.32:479][  0]LightingResults: New page: Lighting Build
+[2018.10.10-22.50.32:484][  0]MapCheck: New page: Map Check
+[2018.10.10-22.50.32:485][  0]LightingResults: New page: Lighting Build
+[2018.10.10-22.50.33:958][  0]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.10.10-22.50.34:097][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.10-22.50.34:097][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.10-22.50.34:098][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.10-22.50.34:098][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.10-22.50.34:098][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.10-22.50.34:098][  0]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.10.10-22.50.34:157][  0]LogStaticMesh: Building static mesh ring3...
+[2018.10.10-22.50.34:164][  0]LogStaticMesh: Built static mesh [0.01s] /Game/VFX/Meshes/ring3.ring3
+[2018.10.10-22.50.34:170][  0]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-22.50.34:205][  0]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2018.10.10-22.50.34:493][  0]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.10-22.50.34:493][  0]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.10-22.50.34:493][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.10-22.50.34:493][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.10-22.50.34:510][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.10.10-22.50.34:539][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.10-22.50.34:589][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.10-22.50.34:798][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 209.099ms to complete.
+[2018.10.10-22.50.34:798][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 2.319
+[2018.10.10-22.50.35:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.50.35:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.50.35:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.50.35:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-22.50.35:147][  0]LogCollectionManager: Loaded 0 collections in 0.006067 seconds
+[2018.10.10-22.50.35:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/Collections/' took 0.01s
+[2018.10.10-22.50.35:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/Developers/theco/Collections/' took 0.01s
+[2018.10.10-22.50.35:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/Collections/' took 0.01s
+[2018.10.10-22.50.35:211][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.10-22.50.35:248][  0]LogContentBrowser: Native class hierarchy populated in 0.0363 seconds. Added 2572 classes and 603 folders.
+[2018.10.10-22.50.35:266][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.10-22.50.36:247][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.10-22.50.36:297][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.10-22.50.36:381][  0]LogSlate: Took 0.012425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.10-22.50.36:410][  0]LogSlate: Took 0.023594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.10-22.50.36:438][  0]LogSlate: Took 0.012327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.10-22.50.36:855][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.10.10-22.50.37:759][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.50.37:811][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.10-22.50.37:904][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.10.10-22.50.37:904][  0]LogLoad: (Engine Initialization) Total time: 42.25 seconds
+[2018.10.10-22.50.37:905][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.10-22.50.37:951][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.10-22.50.38:075][  0]LogSlate: Took 0.016101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-22.50.38:919][  6]LogAssetRegistry: Asset discovery search completed in 21.4514 seconds
+[2018.10.10-22.50.38:925][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.10-22.50.38:925][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000265 seconds (updated 0 objects)
+[2018.10.10-22.50.39:378][  8]LogSlate: Took 0.000734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-22.50.41:834][ 90]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.10.10-22.50.42:885][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.50.43:388][130]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.10.10-22.50.44:779][175]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.10.10-22.50.47:407][259]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.10-22.50.48:414][288]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.10-22.50.49:014][306]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.10-22.50.49:039][307]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-22.50.57:143][639]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theco\Documents\RingThick.fbx)
+[2018.10.10-22.50.57:196][639]LogFbx: Loading FBX Scene from C:\Users\theco\Documents\RingThick.fbx
+[2018.10.10-22.50.57:215][639]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.10-22.51.13:569][639]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.10-22.51.13:718][639]LogFbx: Warning: Triangulating static mesh Circle
+[2018.10.10-22.51.13:757][639]LogStaticMesh: Building static mesh RingThick...
+[2018.10.10-22.51.13:762][639]LogStaticMesh: Built static mesh [0.00s] /Game/VFX/Meshes/RingThick.RingThick
+[2018.10.10-22.51.13:763][639]LogStaticMesh: Warning: RingThick has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.10-22.51.13:763][639]LogStaticMesh: Warning: RingThick has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.10-22.51.13:770][639]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.10-22.51.13:770][639]FBXImport: Warning: RingThick has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.10-22.51.13:770][639]FBXImport: Warning: RingThick has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.10-22.51.19:275][117]LogSlate: Window 'Message Log' being destroyed
+[2018.10.10-22.51.19:282][117]LogSlate: Window 'Message Log' being destroyed
+[2018.10.10-22.51.20:444][210]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/VFX/Meshes/RingThick.RingThick
+[2018.10.10-22.51.20:925][210]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.10.10-22.51.20:964][210]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-22.51.21:571][210]LogRenderer: Reallocating scene render targets to support 1912x1284 Format 26 NumSamples 1 (Frame:1).
+[2018.10.10-22.51.21:571][210]LogSlate: Took 0.025289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.10-22.51.30:448][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Meshes/RingThick" FILE="../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/Meshes/RingThick.uasset" SILENT=true
+[2018.10.10-22.51.30:481][668]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/RingThick04BEEE9F45451ABBB12E17A05C7A8904.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/Meshes/RingThick.uasset'
+[2018.10.10-22.51.38:415][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.52.00:643][234]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/VFX/ShotgunBurstDigital3D_Particle.ShotgunBurstDigital3D_Particle
+[2018.10.10-22.52.00:704][234]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2018.10.10-22.52.00:718][234]LogMaterial: Display: Missing cached shader map for material DefaultParticle, compiling. 
+[2018.10.10-22.52.00:767][234]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.10.10-22.52.00:768][234]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.10-22.52.00:768][234]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.10-22.52.00:768][234]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.10-22.52.00:768][234]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.10-22.52.00:768][234]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-22.52.03:262][293]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/VFX/ShotgunBurstDigital_Particle.ShotgunBurstDigital_Particle
+[2018.10.10-22.52.23:336][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.53.17:460][660]LogMaterial: Display: Missing cached shader map for material EmissiveTexturedMaterial, compiling. 
+[2018.10.10-22.53.17:480][660]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-22.53.20:054][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.53.30:118][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.53.38:819][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.53.50:411][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.53.52:840][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.53.59:758][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.54.01:301][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.54.51:543][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.54.53:430][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.55.10:643][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.55.10:775][953]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_ParticleE74C5DCF490214E173C3838BB9920469.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-22.55.13:374][120]LogEditorFactories: Performing atomic reimport of [C:/Users/theco/Documents/RingThick.fbx]
+[2018.10.10-22.55.13:420][120]LogFbx: Loading FBX Scene from C:/Users/theco/Documents/RingThick.fbx
+[2018.10.10-22.55.13:431][120]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.10-22.55.13:433][120]LogFbx: Warning: Triangulating static mesh Circle
+[2018.10.10-22.55.13:485][120]LogStaticMesh: Building static mesh RingThick...
+[2018.10.10-22.55.13:490][120]LogStaticMesh: Built static mesh [0.00s] /Game/VFX/Meshes/RingThick.RingThick
+[2018.10.10-22.55.13:494][120]LogStaticMesh: Warning: RingThick has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.10-22.55.13:494][120]LogStaticMesh: Warning: RingThick has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.10-22.55.13:505][120]LogEditorFactories: -- imported successfully
+[2018.10.10-22.55.13:518][120]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.10-22.55.13:518][120]FBXImport: Warning: RingThick has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.10-22.55.13:518][120]FBXImport: Warning: RingThick has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.10-22.55.34:449][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.55.52:373][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.56.07:192][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.56.54:585][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.57.21:161][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.58.07:464][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.58.26:482][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.58.49:783][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.59.03:766][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.59.06:664][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.59.12:052][654]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-22.59.13:055][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-22.59.21:156][188]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-22.59.21:660][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-22.59.36:945][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.00.17:628][905]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.00.26:272][415]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.00.33:292][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.00.41:828][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.01.01:577][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.01.14:336][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.01.21:329][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.01.28:724][501]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle145997604534EB12B220A083CD48C222.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.01.30:107][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Meshes/RingThick" FILE="../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/Meshes/RingThick.uasset" SILENT=true
+[2018.10.10-23.01.30:170][585]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/RingThick6187000E4B29EA4DD4D6ABAAD7B40018.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/Meshes/RingThick.uasset'
+[2018.10.10-23.02.03:504][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.02.17:910][ 74]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_ParticleDA284C7D4EB3BEF5DF2B91BC66266AAD.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.02.28:817][787]LogCascade: Non-seeded module ParticleModuleLight
+[2018.10.10-23.02.28:833][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.02.40:508][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.03.09:355][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.03.12:887][682]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.03.13:864][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.03.30:700][722]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.03.46:815][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.03.46:893][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.03.53:068][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.03.53:164][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.04.04:360][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.04.22:992][ 77]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.04.23:752][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.04.26:700][304]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.04.27:374][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.04.32:461][641]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.04.33:737][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.04.38:006][962]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.04.38:616][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.04.52:915][855]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.10-23.04.59:007][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.05.05:673][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.05.06:850][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.05.14:585][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.05.22:320][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.05.23:445][842]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_ParticleA5C58E8C4724F83E4CCB8C889F0B1892.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.05.25:041][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.05.33:335][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.05.37:189][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.06.03:465][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.06.08:911][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.06.20:522][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.06.29:064][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.06.40:540][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.06.47:026][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.06.56:968][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.07.18:689][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.07.40:313][351]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle88D8BCCF40CE226E906100A7B777CFF2.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.07.41:174][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.07.53:311][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.07.57:578][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.08.03:691][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.08.09:418][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.08.14:326][506]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle7B4BF2004F9ED831BD33A5989B8E4E00.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.10.59:464][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.11.10:737][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.11.39:737][960]LogEditorTransaction: Undo Clear Children
+[2018.10.10-23.13.13:033][610]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle76FDE7BE4AEC39C0455524A31EE3611F.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.13.13:319][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.13.16:149][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.13.18:158][883]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Meshes/ShotgunParticle_Mat.ShotgunParticle_Mat
+[2018.10.10-23.13.18:163][883]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.18:327][883]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.18:344][883]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.18:375][883]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.10-23.13.18:375][883]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.10-23.13.18:375][883]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.10-23.13.18:376][883]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-23.13.18:376][883]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.10-23.13.18:376][883]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.13.18:376][883]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.10-23.13.18:376][883]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.10-23.13.18:391][883]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.10.10-23.13.18:401][883]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.10.10-23.13.18:496][883]LogSlate: Took 0.015058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.10-23.13.19:531][908]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.10-23.13.19:573][909]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.13.19:608][910]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.10-23.13.19:608][910]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.10-23.13.19:642][911]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.10-23.13.19:709][913]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.10-23.13.21:251][958]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2018.10.10-23.13.21:251][958]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2018.10.10-23.13.21:251][958]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.10-23.13.23:034][ 57]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.23:067][ 58]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.10-23.13.23:067][ 58]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.10-23.13.23:068][ 58]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.10-23.13.23:068][ 58]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-23.13.23:068][ 58]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.10-23.13.23:068][ 58]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.13.23:068][ 58]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.10-23.13.23:068][ 58]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.10-23.13.23:482][ 71]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.10-23.13.23:482][ 71]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.10-23.13.24:600][119]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2018.10.10-23.13.24:601][119]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2018.10.10-23.13.24:601][119]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.10-23.13.25:892][185]LogMaterialEditor: Applying material ShotgunParticle_Mat
+[2018.10.10-23.13.27:036][185]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.27:076][185]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.10-23.13.27:077][185]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.10-23.13.27:077][185]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.10-23.13.27:077][185]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-23.13.27:077][185]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.10-23.13.27:077][185]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.13.27:077][185]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.10-23.13.27:077][185]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.10-23.13.27:108][185]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.27:139][185]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.27:215][185]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.13.27:884][185]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.10-23.13.27:885][185]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.10-23.13.27:885][185]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.10-23.13.27:885][185]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.10-23.13.27:885][185]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.10-23.13.27:890][185]TextureStreamingBuild: Display: Compiling optional shaders took 0.689 seconds.
+[2018.10.10-23.13.31:795][357]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2018.10.10-23.13.31:795][357]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2018.10.10-23.13.31:795][357]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.10-23.13.40:965][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.14.04:595][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.14.14:079][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.14.42:720][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.14.50:078][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.14.55:637][101]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle3E281260426A446C7FC70E8EC7E432E3.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.17.25:218][723]LogMaterial: Warning: Material /Game/VFX/Meshes/ShotgunParticle_Mat.ShotgunParticle_Mat needed to have new flag set bUsedWithParticleSprites !
+[2018.10.10-23.17.25:221][723]LogMaterial: Warning: Material /Engine/Transient.ShotgunParticle_Mat needed to have new flag set bUsedWithParticleSprites !
+[2018.10.10-23.17.25:225][723]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.17.25:244][723]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.10-23.17.25:244][723]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.10-23.17.25:244][723]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.10-23.17.25:244][723]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-23.17.25:244][723]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.10-23.17.25:244][723]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.17.25:245][723]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.10-23.17.25:245][723]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.10-23.17.25:245][723]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.17.26:408][768]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.10-23.17.26:408][768]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.10-23.17.26:408][768]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.10-23.17.26:477][770]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.10-23.17.26:507][771]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.10-23.17.26:537][772]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.17.27:769][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.17.36:025][196]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2018.10.10-23.17.36:025][196]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2018.10.10-23.17.36:025][196]MaterialEditorStats: Texture samplers: 7/16
+[2018.10.10-23.17.42:034][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.17.53:273][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.17.55:680][201]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle25A1346E4275D4AF151477B5CED7117D.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.10-23.18.00:261][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.18.13:361][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.18.18:862][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.18.43:725][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.19.57:560][ 89]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.034
+[2018.10.10-23.19.57:563][ 89]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/Meshes/ShotgunParticle_Mat] ([1] browsable assets)...
+[2018.10.10-23.19.57:585][ 89]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VFX/Meshes/ShotgunParticle_Mat.ShotgunParticle_Mat]
+[2018.10.10-23.19.57:585][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/Meshes/ShotgunParticle_Mat]
+[2018.10.10-23.19.57:647][ 89]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunParticle_Mat_Auto13FF934A44412E5A5803A4CBF69D7C608.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/Autosaves/Game/VFX/Meshes/ShotgunParticle_Mat_Auto1.uasset'
+[2018.10.10-23.19.57:651][ 89]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/ShotgunBurstDigital3D_Particle] ([1] browsable assets)...
+[2018.10.10-23.19.57:660][ 89]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/VFX/ShotgunBurstDigital3D_Particle.ShotgunBurstDigital3D_Particle]
+[2018.10.10-23.19.57:660][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/ShotgunBurstDigital3D_Particle]
+[2018.10.10-23.19.57:747][ 89]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle_A327667C946B04FF9505328B0CC14F424.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/Autosaves/Game/VFX/ShotgunBurstDigital3D_Particle_Auto1.uasset'
+[2018.10.10-23.19.57:749][ 89]LogFileHelpers: Auto-saving content packages took 0.188
+[2018.10.10-23.20.17:637][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.20.27:262][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.20.52:073][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.20.59:830][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.21.06:898][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.21.07:986][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.22.28:890][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.22.57:153][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.23.06:496][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.23.35:983][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.23.39:127][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.23.48:261][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.24.16:436][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.24.20:607][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.24.23:206][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.24.25:564][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.26.14:176][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.26.26:492][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.26.45:399][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.26.59:851][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.27.07:696][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.27.29:851][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.28.07:913][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.28.14:426][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.29.17:009][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.29.58:130][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.033
+[2018.10.10-23.29.58:134][963]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/ShotgunBurstDigital3D_Particle] ([1] browsable assets)...
+[2018.10.10-23.29.58:143][963]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/VFX/ShotgunBurstDigital3D_Particle.ShotgunBurstDigital3D_Particle]
+[2018.10.10-23.29.58:143][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/ShotgunBurstDigital3D_Particle]
+[2018.10.10-23.29.58:238][963]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle_A810B7DAB48CB318972DE2885B4736466.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/Autosaves/Game/VFX/ShotgunBurstDigital3D_Particle_Auto2.uasset'
+[2018.10.10-23.29.58:241][963]LogFileHelpers: Auto-saving content packages took 0.109
+[2018.10.10-23.31.04:958][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.31.14:095][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.31.23:700][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.31.25:661][377]LogCascade: Non-seeded module ParticleModuleVelocityOverLifetime
+[2018.10.10-23.31.40:945][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.32.07:691][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.32.17:839][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.32.19:067][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.32.32:567][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.32.35:714][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.32.41:313][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.32.43:232][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.32.48:134][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.32.57:078][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.33.04:038][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.33.17:556][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.33.19:038][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.33.37:114][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.33.52:522][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.34.04:926][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.34.24:111][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.34.42:425][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.34.47:340][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.37.47:342][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.39.58:590][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.036
+[2018.10.10-23.39.58:594][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/ShotgunBurstDigital3D_Particle] ([1] browsable assets)...
+[2018.10.10-23.39.58:603][155]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/VFX/ShotgunBurstDigital3D_Particle.ShotgunBurstDigital3D_Particle]
+[2018.10.10-23.39.58:604][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/ShotgunBurstDigital3D_Particle]
+[2018.10.10-23.39.58:704][155]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle_A22F832114D337BD7C183E7B710985A51.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/Autosaves/Game/VFX/ShotgunBurstDigital3D_Particle_Auto3.uasset'
+[2018.10.10-23.39.58:707][155]LogFileHelpers: Auto-saving content packages took 0.114
+[2018.10.10-23.40.43:038][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.45.05:884][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.45.15:064][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.45.54:211][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.47.18:127][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.47.28:422][732]LogEditorTransaction: Undo Delete Emitter
+[2018.10.10-23.47.28:680][732]LogMaterial: Display: Missing cached shader map for material ShotgunParticle_Mat, compiling. 
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.10-23.47.28:703][732]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.10-23.47.29:816][764]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.10-23.47.29:839][764]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.10-23.47.30:980][803]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2018.10.10-23.47.30:980][803]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2018.10.10-23.47.30:981][803]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.10-23.47.32:724][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.47.37:576][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.47.38:710][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.47.50:223][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.47.51:593][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.48.01:971][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.48.19:639][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.48.20:732][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.48.26:377][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.48.27:851][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.48.42:198][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.48.43:495][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.48.43:508][702]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.10-23.48.52:424][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.48.55:841][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.48.57:192][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.49.25:016][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.49.25:942][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.49.43:215][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.49.46:835][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.49.49:067][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.50.12:362][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.10-23.50.13:191][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.50.24:938][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.50.33:802][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-23.50.38:581][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Meshes/ShotgunParticle_Mat" FILE="../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/Meshes/ShotgunParticle_Mat.uasset" SILENT=true
+[2018.10.10-23.50.38:637][135]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunParticle_MatCF8C95FC437A50E31DAE15A451FDA52D.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/Meshes/ShotgunParticle_Mat.uasset'
+[2018.10.10-23.50.38:766][135]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_ParticleCDBD4CB645FC756D048ADB8BB773118D.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.11-01.30.00:941][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.30.11:443][751]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-01.30.16:526][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.30.26:495][547]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-01.30.32:053][808]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-01.30.42:055][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.30.52:533][886]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-01.31.01:450][333]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-01.31.05:669][547]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-01.31.15:041][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.31.24:790][559]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-01.31.26:536][644]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle812AF7164BBB2FD894784CB2D137BEE0.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.11-01.31.28:792][758]LogCascade: Quitting Cascade. FXSystem=0x0000021153763CE0
+[2018.10.11-01.31.38:607][242]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/VFX/ShotgunBurstDigital3D_Particle.ShotgunBurstDigital3D_Particle
+[2018.10.11-01.31.44:006][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.31.48:953][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.32.01:898][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.32.07:017][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.32.17:806][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.32.30:436][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.32.35:323][620]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle02C3530A44BA98AF898D688B7D76C10D.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.11-01.32.37:611][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-01.32.46:430][ 51]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/MotionControllerMap38069E8044D1C4F719BB13A374640259.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.10.11-01.32.46:527][ 51]LogFileHelpers: Saving map 'MotionControllerMap' took 0.719
+[2018.10.11-01.43.01:765][341]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_ParticleE43899134FB29E4582F9B088442E8B2A.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.11-02.13.33:862][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-02.13.36:257][287]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-02.13.38:067][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-02.13.57:565][180]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-02.14.12:245][790]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-02.14.14:765][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-02.14.19:760][ 95]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-02.14.21:470][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-02.14.39:489][976]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-02.14.51:410][498]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-02.14.59:799][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-02.15.11:959][400]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.11-02.15.16:119][584]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle3EB37C754AEA59F5A0860DA2B02F2AF0.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.11-02.15.19:848][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-02.15.24:605][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-02.15.27:570][ 77]LogSavePackage: Moving '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Saved/ShotgunBurstDigital3D_Particle0E048F344BDB984F09F04E85C0DC16A4.tmp' to '../../../../../../Users/theco/Desktop/DashPunch/DashPunchPrototype/Content/VFX/ShotgunBurstDigital3D_Particle.uasset'
+[2018.10.11-02.16.00:741][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-02.16.07:689][672]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.980 s
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: 
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: Ensure condition failed: CachedShader == VertexShader->Resource [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp] [Line: 35]
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: Parameters are being set for a VertexShader which is not currently bound
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: Stack: 
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffe0b171f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffe0850c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffe086b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc417d97d UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc4170364 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc7108784 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc781af00 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc781b98e UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc783d20f UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc783c59b UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc7858d39 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc783d508 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:689][672]LogOutputDevice: Error: [Callstack] 0x00007fffc785c781 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffc7859f63 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffc71fd8df UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffc7726982 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffc76f8fb2 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffe06d1f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffe06d2456 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007ff80ad475f9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007ff80ad48574 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffe0b16b7c UE4Editor-Core.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007fffe0b117c7 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007ff827707e94 KERNEL32.DLL!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: [Callstack] 0x00007ff8278f7ad1 ntdll.dll!UnknownFunction []
+[2018.10.11-02.16.07:690][672]LogOutputDevice: Error: 
+[2018.10.11-02.16.07:690][672]LogStats:                SubmitErrorReport -  0.000 s
